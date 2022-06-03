@@ -1,7 +1,7 @@
 {
   "id": "98ae11cc-da21-4055-a6be-c8688a15595a",
   "version": "2.0",
-  "name": "Facebook",
+  "name": "Konga",
   "url": "https://www.konga.com/",
   "tests": [{
     "id": "b2c31d48-2f0d-48bf-a0af-21a887342bb7",
@@ -442,7 +442,7 @@
     "persistSession": false,
     "parallel": false,
     "timeout": 300,
-    "tests": ["b2c31d48-2f0d-48bf-a0af-21a887342bb7"]
+    "tests": ["b2c31d48-2f0d-48bf-a0af-21a887342bb7", "e0b8628b-2f65-4250-a6ab-3d1f71c89def", "49a98dd9-c3ac-4434-9d69-e0a0c6d22013"]
   }],
   "urls": ["https://www.konga.com/"],
   "plugins": []
